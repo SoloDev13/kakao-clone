@@ -1,0 +1,19 @@
+/*
+selector {
+    property-name: value;
+}
+
+h1 {
+    property-name: value;
+}
+
+#id {}
+.class {}
+h1 .name {}
+selector (id, class, tag name) {}
+*/
+
+h1 {
+  color: green;
+  /*font-size: 10px;*/
+}
